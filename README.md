@@ -1,0 +1,1 @@
+The mini project of html and css basics lessons sections from the Odin Project. I am applying what I learned from those two sections.
